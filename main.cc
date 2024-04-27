@@ -47,7 +47,7 @@ int main()
 
         }
         window.display();
-        sleep(seconds(0.04));
+        // sleep(seconds(0.04));
     }
     ifs.close();
     std::ofstream ofs;
